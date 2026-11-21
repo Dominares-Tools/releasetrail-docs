@@ -8,7 +8,7 @@ releasetrail turns a change into a release you can defend: your own gates and sc
 
 ## Get it
 
-Buy releasetrail at https://dominares.org/tools/releasetrail: one payment of $99, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the releasetrail command, the local web desk, an example contract, and the full test suite.
+Buy releasetrail at https://dominares.org/tools/releasetrail: one payment of $99, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the releasetrail command, the local web desk, an example contract, and the test suite.
 
 Requirements: Python 3.10 or newer and Git, no other dependencies. Built and tested on macOS; Windows is supported only by a fallback that is not tested.
 
